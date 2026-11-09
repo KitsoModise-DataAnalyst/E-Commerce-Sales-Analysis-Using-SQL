@@ -48,7 +48,7 @@ Business questions include:
 7. How does revenue change from month to month?
 8. What percentage of total revenue does each category contribute?
 
-**[View Level 2 SQL Queries](sql/level-2-product-performance.sql)**
+**[View Question 1 SQL Solution](SQL/Question%201%20Solution)**
 
 ## SQL Skills Demonstrated
 
