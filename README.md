@@ -10,7 +10,7 @@ The goal is to demonstrate practical SQL skills by transforming sales data into 
 
 - **Source:** [E-Commerce Sales Data Analysis and EDA — Kaggle](https://www.kaggle.com/datasets/erfan4524/e-commerce-sales-data-analysis-and-eda)
 - **Domain:** E-commerce and retail analytics
-- **Tools:** SQL, MySQL, and GitHub
+- **Tools:** SQL, MySQL Workbench
 
 The analysis uses order, product, and payment information to investigate sales performance. Where applicable, the analysis focuses on completed orders with paid payments.
 
